@@ -1,0 +1,56 @@
+2024-09-24 20:23:22,417 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-24 20:29:36,986 [Worker-18: Creating project "clase-01"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.coderhouse:clase-01:0.0.1-SNAPSHOT @ E:\java_59570\clase-01\pom.xml.
+2024-09-24 20:29:37,447 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/main/java
+2024-09-24 20:29:37,448 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/main/resources
+2024-09-24 20:29:37,450 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/test/java
+2024-09-24 20:29:37,450 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/test/resources
+2024-09-24 20:29:38,281 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:29:38,286 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:29:38,291 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:29:38,292 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-24 20:32:31,637 [Worker-18: Creating project "clase-01"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.coderhouse:clase-01:0.0.1-SNAPSHOT @ E:\java_59570\clase-01\pom.xml.
+2024-09-24 20:32:31,878 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/main/java
+2024-09-24 20:32:31,878 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/main/resources
+2024-09-24 20:32:31,879 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/test/java
+2024-09-24 20:32:31,879 [Worker-18: Creating project "clase-01"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/test/resources
+2024-09-24 20:32:32,136 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:32:32,137 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:32:32,142 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:32:32,142 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-09-24 20:33:08,388 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:33:08,391 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:33:08,393 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:33:08,394 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:37:51,250 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.coderhouse:clase-01:0.0.1-SNAPSHOT @ E:\java_59570\clase-01\pom.xml.
+2024-09-24 20:37:51,334 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:37:51,337 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:37:51,340 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:37:51,340 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:39:55,989 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-24 20:39:56,102 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.coderhouse:clase-01:0.0.1-SNAPSHOT @ E:\java_59570\clase-01\pom.xml.
+2024-09-24 20:39:56,179 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/main/java
+2024-09-24 20:39:56,179 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/main/resources
+2024-09-24 20:39:56,180 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase-01/src/test/java
+2024-09-24 20:39:56,180 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /clase-01/src/test/resources
+2024-09-24 20:39:56,305 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-09-24 20:39:56,423 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:39:56,424 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:39:56,427 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:39:56,427 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:45:21,879 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:45:21,882 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:45:21,885 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:45:21,885 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:47:01,338 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:47:01,340 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:47:01,342 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:47:01,342 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:52:08,250 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:52:08,251 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:52:08,252 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:52:08,252 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 20:55:28,837 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:55:28,838 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-09-24 20:55:28,839 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-24 20:55:28,840 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\java_59570\clase-01\src\test\resources
+2024-09-24 21:06:53,556 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
