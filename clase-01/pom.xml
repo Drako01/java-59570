@@ -3,4 +3,8 @@
   <groupId>com.coderhouse</groupId>
   <artifactId>clase-01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+		<maven.compiler.source>21</maven.compiler.source>
+		<maven.compiler.target>21</maven.compiler.target>
+	</properties>
 </project>
