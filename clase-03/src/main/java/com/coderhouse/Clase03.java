@@ -160,10 +160,28 @@ public class Clase03 {
 		listaDeNombres.add("Alejandro"); // 1
 		listaDeNombres.add("Federico"); // 2
 		listaDeNombres.add("Gabriel"); // 3
-		
+		System.out.println("Usando Foreach\n");
 		listaDeNombres.forEach(nombre -> {
 			System.out.println("Nombre: " + nombre);
 		});
+		
+		System.out.println("Usando Iterable\n");
+		for (String nombre : listaDeNombres) {
+			System.out.println("Nombre: " + nombre);
+		}
+		
+		System.out.println("Usando for\n");
+		for(int i = 0; i < listaDeNombres.size(); i++) {
+			System.out.println("Nombre: " + listaDeNombres.get(i));
+		}
+		
+		System.out.println("Usando Iterator\n");
+		
+		Iterator<String> iterator = listaDeNombres.iterator();
+		
+		while(iterator.hasNext()) {
+			System.out.println("Nombre: " + iterator.next());
+		}
 		
 		
 	}
